@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShadowSample", "DropShadowSample.csproj", "{C43B0552-2AB7-4E7F-BD0E-C414DD1F8369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43B0552-2AB7-4E7F-BD0E-C414DD1F8369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B0552-2AB7-4E7F-BD0E-C414DD1F8369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B0552-2AB7-4E7F-BD0E-C414DD1F8369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B0552-2AB7-4E7F-BD0E-C414DD1F8369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9651BDAB-BEB1-4CD3-8C69-A94C7F39F389}
+	EndGlobalSection
+EndGlobal
